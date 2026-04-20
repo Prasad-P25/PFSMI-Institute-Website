@@ -1,4 +1,4 @@
-# PFSMI Project Documentation
+55# PFSMI Project Documentation
 
 ## Project Overview
 
@@ -15,35 +15,8 @@ file:///C:/Users/PC-05/Projects/pfsmi/index.html
 npx serve -p 8080
 # Then visit: http://localhost:8080
 ```
+Top Recruiters
 
----
-
-## About the Client
-
-**PROTECTHER Fire & Safety Management Institute (PFSMI)** is a fire and safety education institute located in Pune, India.
-
-### Contact Information
-- **Address:** F 507, Mega Center, Magarpatta, Hadapsar, Pune, Maharashtra 411013
-- **Phone:** +91 8830024093, +91 8888201419
-- **Email:** info@protecther.com, admissions@protecther.com
-- **Student Portal:** https://protecther.site/
-- **WhatsApp:** +91 8830024093
-
-### Social Media
-- Facebook: https://www.facebook.com/profile.php?id=100093077889265
-- Instagram: https://www.instagram.com/protectherfireandsafety/
-- LinkedIn: https://www.linkedin.com/company/protectherpfsmi/
-- YouTube: https://www.youtube.com/channel/UCH3buo5hAMoBqLk7xmQzV6A
-
-### Leadership
-- **Director:** Ms. Bhagyashri Bhidekar
-- **Co-Director:** Mr. Mahesh Shelote
-
----
-
-## Project Structure
-
-```
 pfsmi/
 ├── index.html          # Homepage
 ├── about.html          # About Us page
