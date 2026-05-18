@@ -233,7 +233,7 @@ All forms use `e.preventDefault()` and show JavaScript alerts:
 2. **Forms non-functional** - Need backend integration
 3. **Video gallery** - Play buttons are decorative; no actual video playback
 4. **Company logos** - Using Clearbit API which may break; should host locally
-5. **Student portal link** - Points to https://protecther.site/ (external)
+5. **Student portal link** - Points to https://ehstraining.pfsmi.com/ (external)
 6. **Privacy Policy / Terms** - Links are `#` placeholders
 
 ---
